@@ -1,0 +1,29 @@
+27
+45
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ w w w w ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ w w w w w w w w w w w w w ^ ^ ^
+t t t t t t t t t t t t t w w w w w w t t t t t t t t t t t w w w w w w w w w w w t t t ^
+t t t - - - t t t t t t t w w w w w w t t t t - t t t t t t t w w w w w w w w w t t t t ^
+- - - - - - - t t - - - t t w w w w t t t t - t - t t t t t t t w w w w w w w t t t t - t
+t t t t - t - - - - t - - - - - - - t t t t - t - t t t t t t t - - - - - - - - - - - - t
+t t t t - t t t t t t t t t t t t - - - - - - t - - - - - - - - - ^ ^ ^ ^ ^ ^ t t t t - t
+t - - - - t t t t t t t t t t t - - ^ t t t t t - - - ^ - t t t t t t t t t t t t t t - t
+t - - - - t t t t t t t t t t t - ^ - - - - - ^ - - - ^ - t t t t t t t t t t t t t ^ - -
+t t t t - t t t t t t t t t t t - ^ - - - - - ^ - - - ^ - t t t t t t t t t t t t ^ - - t
+t t t t - t t t t t t t t t t t - ^ - - - - - ^ - - - ^ - t t t t t t t ^ - - - - - - - t
+t t t t - t t t t t t t t t t - - ^ - - - - - ^ - - - ^ - t t t ^ - - - - - - - - - - - -
+t - - - - t t t t t t t t t t - - ^ - - - - - ^ - - - ^ - t t ^ - - - - - - - - - - t t t
+t - - - t t t t t t t t t - - - ^ - - - - - ^ - - - ^ - - t ^ - - - - - - - - - - - t t t
+t - - - t t t t t t t t - - - ^ - - - - - ^ - - - ^ - - - t ^ - - - - - - - - - - - t t t 
+t t t t t t t t t t t t t - - - ^ - - - - - ^ - - - ^ - - t ^ - - - - - - ^ - - - - - t t
+w t t t t t t t t t t t - - - - ^ - - - - - - ^ - - - ^ - - - - - - - - ^ - ^ - - - - t t 
+w w w t t t t t t t t t - - - ^ - - - - - - - - ^ - - - ^ - - - - - - - ^ - - ^ - - - t t
+w w w w w w t t t t t t - - ^ - - - - - - - - - ^ - - - - ^ - - - - - - ^ - - ^ - - - - -
+t t t w w w w t t t t t t t - ^ - - - - - - - - - ^ - - - - ^ - - - - - ^ - - ^ - - - - -
+t t t t w w w w t t t t t t t - ^ - - - - - - - ^ - - - - ^ - - - - - - ^ - - ^ - - - - -
+t t t t t w w w w t t t t t t t - ^ - - - - - - - ^ - - ^ - - - - - - - ^ - - - - - - - -
+t t t t t t t w w w w w w w w w - ^ - - - - - - ^ - - - ^ - - - - - - ^ - - - - ^ - - - -
+t t t t t t t w w w w w w w w w - - ^ - - - - ^ - - - ^ - - - - - - ^ - - - - - ^ - - - -
+t t t t t t t t t t w w w w w w - - ^ - - - ^ - - - - - ^ - - - - ^ - - - - - - ^ - - - - 
+t t t t t t t - - t t t t t t t t - ^ - - ^ - - - - - ^ - - - - - ^ - - - - - - - ^ - - -
+t t t t t t t - t t t t t t t t t - - ^ - - ^ - - - - - ^ - - - - ^ - - - - - - ^ - - - -
+t t t t t t t t t t t t t t t t t t - x ^ - ^ - - - - - ^ - - - - ^ - - - - - ^ - - - - - 

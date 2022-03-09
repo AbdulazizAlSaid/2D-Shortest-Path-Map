@@ -1,0 +1,17 @@
+15
+15
+t t t t t w t ^ t t t t t ^ ~
+t t w w w w ^ t t t t t ^ t ~
+w w w w w w ^ t t t - ^ t t ~
+w w w w w w t t t t - ^ t t t 
+- - w w w ^ t t t t ^ - - - -
+- - - - ^ t t t t t - t t t -
+- - - - ^ t t t ~ ~ - - t t t
+- - - - ^ t t t t ~ ~ t - - t
+- - - - ^ t ~ ~ ~ ~ ~ t t t t
+- - - ^ t t ~ ~ ~ ~ ~ t t t -
+- - ^ t t ~ ~ ~ ~ ~ - t t - -
+- - ^ t t ~ ~ ~ ~ - - t t t -
+- - - - ^ t t t - w w w w ^ -
+- - ^ w w w w w w w w w w ^ -
+@ ^ w w w w w w @ w w w w t x

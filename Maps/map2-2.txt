@@ -1,0 +1,13 @@
+10
+10
+t t t - - - ~ ~ ~ -
+t t t w - - ~ ~ ~ x
+t t t w - - ~ ~ ^ -
+t t t w - - t ^ ^ -
+t w w w - - t ^ ^ -
+t w w w @ - t ^ @ -
+w w w w - - t ^ ^ -
+w w w w - - t t ^ - 
+w w w w - - t t t - 
+w w w w - - t t t t
+ 

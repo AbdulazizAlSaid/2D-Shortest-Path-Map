@@ -1,0 +1,56 @@
+#pragma once
+#include <iostream>
+#include <vector>
+#include <string>
+#include <queue>
+#include <stack>
+#include <cmath>
+#include <fstream>
+#include <sstream>
+using namespace std;
+
+typedef struct Coord {
+	int x; int y;
+}; Coord;
+///////////////////////////////////////////
+class Graph {
+private:
+
+
+public:
+	int R;// rows
+	int C;//columns
+	int** M;
+	bool** vis;
+	int** myArray;
+
+	Graph(string s);
+	~Graph();
+	void Display();
+	bool isValid(int row, int col);
+	int** BFS(Coord start, Coord goal);
+	int** DFS(Coord start, Coord goal);
+	void readMatrix(string s);
+};
+///////////////////////////////////////////
+class Player
+{
+public:
+	Coord position;
+	int p;
+	bool active;
+	string cType;
+	void Move(char m, Graph g, Player curr);
+	/*void Move2(Graph g, Player one, Player two);
+	void Move3(Graph g, Player one, Player two, Player three);*/
+	Player();
+	Player(string name);
+	~Player();
+
+
+};
+
+
+
+
+
