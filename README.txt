@@ -6,6 +6,6 @@ After selecting your character(s) you will be shown the map with your destinatio
 You can then choose where to place your character(s) by using coordinates (1,1) to (R,C)example 1 1 enter = (1,1).//BUT DONT CHEAT 
 After placing you can w a s d to move towrds your target.
 Hit q and enterto end the program. 
-Change active charactrers, if playing with more than 1, by using the correspinding number key below your F keys and enter.
+Change active characters, if playing with more than 1, by using the correspinding number key below your F keys and enter.
 Restart by hitting r and enter.
 HAVE FUN!! :)
